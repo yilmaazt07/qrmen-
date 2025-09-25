@@ -1,8 +1,8 @@
 <?php
 $servername = "localhost";
-$username = "ymc15dmasycomtr_qrmenutk";
-$password = "1b58b79a!A";
-$dbname = "ymc15dmasycomtr_qrmenu";
+$username = "x";
+$password = "1!A";
+$dbname = "x";
 
 // Veritabanı bağlantısı oluştur
 $conn = new mysqli($servername, $username, $password, $dbname);
