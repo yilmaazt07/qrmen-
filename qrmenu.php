@@ -1,9 +1,9 @@
 <?php
 // Veritabanı bağlantı bilgileri
 $servername = "localhost";
-$username = "ymc15dmasycomtr_qrmenutk";
-$password = "1b58b79a!A";
-$dbname = "ymc15dmasycomtr_qrmenu";
+$username = "x";
+$password = "1";
+$dbname = "x";
 
 try {
     $conn = new PDO("mysql:host=$servername;dbname=$dbname;charset=utf8", $username, $password);
